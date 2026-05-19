@@ -12,3 +12,4 @@ D:\.NET-Projects\Basics\obj\Debug\net10.0\refint\Basics.dll
 D:\.NET-Projects\Basics\obj\Debug\net10.0\Basics.pdb
 D:\.NET-Projects\Basics\obj\Debug\net10.0\Basics.genruntimeconfig.cache
 D:\.NET-Projects\Basics\obj\Debug\net10.0\ref\Basics.dll
+D:\.NET-Projects\Basics\obj\Debug\net10.0\Basics.sourcelink.json
